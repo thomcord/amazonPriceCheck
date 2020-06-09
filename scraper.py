@@ -1,5 +1,4 @@
 # This program will check the price of a product on Amazon.de and send and email if a conditional is true.
-
 import requests
 from bs4 import BeautifulSoup
 import smtplib
